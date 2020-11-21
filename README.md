@@ -4,7 +4,7 @@ pre-Gaia EDR3 version of PyGaia
 ## Notes on this version of PyGaia (2020.11.21)
 
 This is the version of the PyGaia code as it was [at the end of
-2019](https://github.com/agabrown/PyGaia/commit/50f896fe14f12ffb6744d4a2e453b24abaa7e239). The following versions are
+2019](https://github.com/agabrown/PyGaia/tree/50f896fe14f12ffb6744d4a2e453b24abaa7e239). The following versions are
 updated to the Gaia scientific performance predictions based on Gaia EDR3 (published on December 3 2020) and
 extrapolations thereof. If for some reason you need to simulate the Gaia performance corresponding to the predictions
 made after spacecraft commissioning, then use the code in this repository. To avoid namespace problems, the top level
