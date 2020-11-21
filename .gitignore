@@ -1,0 +1,6 @@
+pygaiav1.egg-info
+build
+dist
+**/__pycache__
+**/*.pyc
+**/*.swp
